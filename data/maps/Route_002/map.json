@@ -1,0 +1,31 @@
+{
+  "id": "MAP_ROUTE_002",
+  "name": "Route_002",
+  "layout": "LAYOUT_ROUTE_002",
+  "music": "MUS_EVER_GRANDE",
+  "region_map_section": "MAPSEC_ROUTE_002",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_HANAKA_VILLAGE",
+      "offset": -8,
+      "direction": "right"
+    },
+    {
+      "map": "MAP_ROUTE_003",
+      "offset": -20,
+      "direction": "up"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

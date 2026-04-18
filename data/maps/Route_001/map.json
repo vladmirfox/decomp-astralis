@@ -1,0 +1,31 @@
+{
+  "id": "MAP_ROUTE_001",
+  "name": "Route_001",
+  "layout": "LAYOUT_ROUTE_001",
+  "music": "MUS_GSC_ROUTE38",
+  "region_map_section": "MAPSEC_ROUTE_001",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_NONE",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_WYRMSHIRE",
+      "offset": -2,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_HANAKA_VILLAGE",
+      "offset": 10,
+      "direction": "left"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

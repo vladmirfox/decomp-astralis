@@ -782,7 +782,6 @@
     {
       "id": "MAPSEC_ROUTE_4_POKECENTER",
       "name": "ROUTE 4",
-      "name_clone": true,
       "x": 8,
       "y": 3,
       "width": 1,
@@ -791,7 +790,6 @@
     {
       "id": "MAPSEC_ROUTE_10_POKECENTER",
       "name": "ROUTE 10",
-      "name_clone": true,
       "x": 18,
       "y": 3,
       "width": 1,
@@ -1032,7 +1030,6 @@
     {
       "id": "MAPSEC_UNDERGROUND_PATH_2",
       "name": "UNDERGROUND PATH",
-      "name_clone": true,
       "x": 12,
       "y": 6,
       "width": 1,
@@ -1393,7 +1390,6 @@
     {
       "id": "MAPSEC_TRAINER_TOWER_2",
       "name": "TRAINER TOWER",
-      "name_clone": true,
       "x": 5,
       "y": 6,
       "width": 1,
@@ -1630,6 +1626,174 @@
       "y": 4,
       "width": 1,
       "height": 1
+    },
+    {
+      "id": "MAPSEC_WYRMSHIRE",
+      "name": "WYRMSHIRE"
+    },
+    {
+      "id": "MAPSEC_HANAKA_VILLAGE",
+      "name": "HANAKA VILLAGE"
+    },
+    {
+      "id": "MAPSEC_GREENSFIELD",
+      "name": "GREENSFIELD"
+    },
+    {
+      "id": "MAPSEC_MARINA_PORT",
+      "name": "MARINA PORT"
+    },
+    {
+      "id": "MAPSEC_IRONFORGE_CITY",
+      "name": "IRONFORGE CITY"
+    },
+    {
+      "id": "MAPSEC_FORT_VALORITE",
+      "name": "FORT VALORITE"
+    },
+    {
+      "id": "MAPSEC_MYTHERIA",
+      "name": "MYTHERIA"
+    },
+    {
+      "id": "MAPSEC_FORTUNA_CITY",
+      "name": "FORTUNA CITY"
+    },
+    {
+      "id": "MAPSEC_HYDROELEC_DAM",
+      "name": "HYDROELEC DAM"
+    },
+    {
+      "id": "MAPSEC_AE_RUINS",
+      "name": "AE RUINS"
+    },
+    {
+      "id": "MAPSEC_GREAT_DESERT",
+      "name": "GREAT DESERT"
+    },
+    {
+      "id": "MAPSEC_DESERT_OASIS",
+      "name": "DESERT OASIS"
+    },
+    {
+      "id": "MAPSEC_CYNDERHAIL_SECT",
+      "name": "CYNDERHAIL SECT"
+    },
+    {
+      "id": "MAPSEC_NEXIUM_CAVERNS",
+      "name": "NEXIUM CAVERNS"
+    },
+    {
+      "id": "MAPSEC_WYRMSPIRE_KEEP",
+      "name": "WYRMSPIRE KEEP"
+    },
+    {
+      "id": "MAPSEC_SHINRYU_PATH",
+      "name": "SHINRYU PATH"
+    },
+    {
+      "id": "MAPSEC_SHINRYU_PAGODA",
+      "name": "SHINRYU PAGODA"
+    },
+    {
+      "id": "MAPSEC_ROUTE_001",
+      "name": "ROUTE 001"
+    },
+    {
+      "id": "MAPSEC_ROUTE_002",
+      "name": "ROUTE 002"
+    },
+    {
+      "id": "MAPSEC_ROUTE_003",
+      "name": "ROUTE 003"
+    },
+    {
+      "id": "MAPSEC_ROUTE_004",
+      "name": "ROUTE 004"
+    },
+    {
+      "id": "MAPSEC_ROUTE_005",
+      "name": "ROUTE 005"
+    },
+    {
+      "id": "MAPSEC_ROUTE_006",
+      "name": "ROUTE 006"
+    },
+    {
+      "id": "MAPSEC_ROUTE_007",
+      "name": "ROUTE 007"
+    },
+    {
+      "id": "MAPSEC_ROUTE_008",
+      "name": "ROUTE 008"
+    },
+    {
+      "id": "MAPSEC_ROUTE_009",
+      "name": "ROUTE 009"
+    },
+    {
+      "id": "MAPSEC_ROUTE_010",
+      "name": "ROUTE 010"
+    },
+    {
+      "id": "MAPSEC_ROUTE_011",
+      "name": "ROUTE 011"
+    },
+    {
+      "id": "MAPSEC_ROUTE_012",
+      "name": "ROUTE 012"
+    },
+    {
+      "id": "MAPSEC_ROUTE_013",
+      "name": "ROUTE 013"
+    },
+    {
+      "id": "MAPSEC_ROUTE_014",
+      "name": "ROUTE 014"
+    },
+    {
+      "id": "MAPSEC_ROUTE_015",
+      "name": "ROUTE 015"
+    },
+    {
+      "id": "MAPSEC_ROUTE_016",
+      "name": "ROUTE 016"
+    },
+    {
+      "id": "MAPSEC_ROUTE_017",
+      "name": "ROUTE 017"
+    },
+    {
+      "id": "MAPSEC_ROUTE_018",
+      "name": "ROUTE 018"
+    },
+    {
+      "id": "MAPSEC_ROUTE_019",
+      "name": "ROUTE 019"
+    },
+    {
+      "id": "MAPSEC_ROUTE_020",
+      "name": "ROUTE 020"
+    },
+    {
+      "id": "MAPSEC_ROUTE_021",
+      "name": "ROUTE 021"
+    },
+    {
+      "id": "MAPSEC_ROUTE_022",
+      "name": "ROUTE 022"
+    },
+    {
+      "id": "MAPSEC_ROUTE_023",
+      "name": "ROUTE 023"
+    },
+    {
+      "id": "MAPSEC_ROUTE_024",
+      "name": "ROUTE 024"
+    },
+    {
+      "id": "MAPSEC_ROUTE_025",
+      "name": "ROUTE 025"
     }
   ]
 }

@@ -133,7 +133,12 @@
     "Underwater_Route128",
     "Underwater_Route129",
     "Underwater_Route105",
-    "Underwater_Route125"
+    "Underwater_Route125",
+    "Wyrmshire",
+    "Route_001",
+    "Hanaka_Village",
+    "Route_003",
+    "Route_002"
   ],
   "gMapGroup_IndoorLittleroot": [
     "LittlerootTown_BrendansHouse_1F",

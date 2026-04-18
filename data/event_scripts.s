@@ -1737,3 +1737,14 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/scripts/dexnav.inc"
 	.include "data/scripts/battle_frontier.inc"
 	.include "data/scripts/apricorn_tree.inc"
+
+	.include "data/maps/Route_003/scripts.inc"
+
+	.include "data/maps/Wyrmshire/scripts.inc"
+
+	.include "data/maps/Hanaka_Village/scripts.inc"
+
+	.include "data/maps/Route_002/scripts.inc"
+
+	.include "data/maps/Route_001/scripts.inc"
+
