@@ -17,6 +17,11 @@
       "map": "MAP_ROUTE_002",
       "offset": 20,
       "direction": "down"
+    },
+    {
+      "map": "MAP_GREENSFIELD",
+      "offset": -8,
+      "direction": "left"
     }
   ],
   "object_events": [],

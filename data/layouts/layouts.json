@@ -9373,6 +9373,316 @@
       "secondary_tileset": "gTileset_Petalburg",
       "border_filepath": "data/layouts/Route_001/border.bin",
       "blockdata_filepath": "data/layouts/Route_001/map.bin"
+    },
+    {
+      "id": "LAYOUT_DESERT_OASIS",
+      "name": "Desert_Oasis_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Desert_Oasis/border.bin",
+      "blockdata_filepath": "data/layouts/Desert_Oasis/map.bin"
+    },
+    {
+      "id": "LAYOUT_WYRMSPIRE_KEEP",
+      "name": "Wyrmspire_Keep_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Wyrmspire_Keep/border.bin",
+      "blockdata_filepath": "data/layouts/Wyrmspire_Keep/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_007",
+      "name": "Route_007_Layout",
+      "width": 10,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_007/border.bin",
+      "blockdata_filepath": "data/layouts/Route_007/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_004",
+      "name": "Route_004_Layout",
+      "width": 40,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_004/border.bin",
+      "blockdata_filepath": "data/layouts/Route_004/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_008",
+      "name": "Route_008_Layout",
+      "width": 10,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_008/border.bin",
+      "blockdata_filepath": "data/layouts/Route_008/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_015",
+      "name": "Route_015_Layout",
+      "width": 10,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_015/border.bin",
+      "blockdata_filepath": "data/layouts/Route_015/map.bin"
+    },
+    {
+      "id": "LAYOUT_IRONFORGE_CITY",
+      "name": "Ironforge_City_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Ironforge_City/border.bin",
+      "blockdata_filepath": "data/layouts/Ironforge_City/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_013",
+      "name": "Route_013_Layout",
+      "width": 20,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/Route_013/border.bin",
+      "blockdata_filepath": "data/layouts/Route_013/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_020",
+      "name": "Route_020_Layout",
+      "width": 10,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_020/border.bin",
+      "blockdata_filepath": "data/layouts/Route_020/map.bin"
+    },
+    {
+      "id": "LAYOUT_CYNDER_HAIL_SECT",
+      "name": "CynderHail_Sect_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/CynderHail_Sect/border.bin",
+      "blockdata_filepath": "data/layouts/CynderHail_Sect/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_012",
+      "name": "Route_012_Layout",
+      "width": 20,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_012/border.bin",
+      "blockdata_filepath": "data/layouts/Route_012/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHINRYU_PATH",
+      "name": "Shinryu_Path_Layout",
+      "width": 10,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Shinryu_Path/border.bin",
+      "blockdata_filepath": "data/layouts/Shinryu_Path/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEXIUM_CAVERNS",
+      "name": "Nexium_Caverns_Layout",
+      "width": 10,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Nexium_Caverns/border.bin",
+      "blockdata_filepath": "data/layouts/Nexium_Caverns/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_010",
+      "name": "Route_010_Layout",
+      "width": 20,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_010/border.bin",
+      "blockdata_filepath": "data/layouts/Route_010/map.bin"
+    },
+    {
+      "id": "LAYOUT_FORT_VALORITE",
+      "name": "Fort_Valorite_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Fort_Valorite/border.bin",
+      "blockdata_filepath": "data/layouts/Fort_Valorite/map.bin"
+    },
+    {
+      "id": "LAYOUT_FORTUNA_CITY",
+      "name": "Fortuna_City_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Fortuna_City/border.bin",
+      "blockdata_filepath": "data/layouts/Fortuna_City/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_009",
+      "name": "Route_009_Layout",
+      "width": 10,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_009/border.bin",
+      "blockdata_filepath": "data/layouts/Route_009/map.bin"
+    },
+    {
+      "id": "LAYOUT_HYDRO_ELEC_DAM",
+      "name": "HydroElec_Dam_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/HydroElec_Dam/border.bin",
+      "blockdata_filepath": "data/layouts/HydroElec_Dam/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_006",
+      "name": "Route_006_Layout",
+      "width": 20,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_006/border.bin",
+      "blockdata_filepath": "data/layouts/Route_006/map.bin"
+    },
+    {
+      "id": "LAYOUT_AE_RUINS",
+      "name": "AE_Ruins_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/AE_Ruins/border.bin",
+      "blockdata_filepath": "data/layouts/AE_Ruins/map.bin"
+    },
+    {
+      "id": "LAYOUT_MARINA_PORT",
+      "name": "Marina_Port_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Marina_Port/border.bin",
+      "blockdata_filepath": "data/layouts/Marina_Port/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_005",
+      "name": "Route_005_Layout",
+      "width": 10,
+      "height": 30,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_005/border.bin",
+      "blockdata_filepath": "data/layouts/Route_005/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_018",
+      "name": "Route_018_Layout",
+      "width": 10,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_018/border.bin",
+      "blockdata_filepath": "data/layouts/Route_018/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_014",
+      "name": "Route_014_Layout",
+      "width": 20,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_014/border.bin",
+      "blockdata_filepath": "data/layouts/Route_014/map.bin"
+    },
+    {
+      "id": "LAYOUT_GREENSFIELD",
+      "name": "Greensfield_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Greensfield/border.bin",
+      "blockdata_filepath": "data/layouts/Greensfield/map.bin"
+    },
+    {
+      "id": "LAYOUT_MYTHERIA",
+      "name": "Mytheria_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Mytheria/border.bin",
+      "blockdata_filepath": "data/layouts/Mytheria/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_017",
+      "name": "Route_017_Layout",
+      "width": 20,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_017/border.bin",
+      "blockdata_filepath": "data/layouts/Route_017/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_019",
+      "name": "Route_019_Layout",
+      "width": 20,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_019/border.bin",
+      "blockdata_filepath": "data/layouts/Route_019/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_016",
+      "name": "Route_016_Layout",
+      "width": 30,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_016/border.bin",
+      "blockdata_filepath": "data/layouts/Route_016/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE_011",
+      "name": "Route_011_Layout",
+      "width": 10,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route_011/border.bin",
+      "blockdata_filepath": "data/layouts/Route_011/map.bin"
+    },
+    {
+      "id": "LAYOUT_SHINRYU_PAGODA",
+      "name": "Shinryu_Pagoda_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Shinryu_Pagoda/border.bin",
+      "blockdata_filepath": "data/layouts/Shinryu_Pagoda/map.bin"
     }
   ]
 }

@@ -1,0 +1,26 @@
+{
+  "id": "MAP_HYDRO_ELEC_DAM",
+  "name": "HydroElec_Dam",
+  "layout": "LAYOUT_HYDRO_ELEC_DAM",
+  "music": "MUS_FORTREE",
+  "region_map_section": "MAPSEC_HYDROELEC_DAM",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_TOWN",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE_007",
+      "offset": 5,
+      "direction": "down"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

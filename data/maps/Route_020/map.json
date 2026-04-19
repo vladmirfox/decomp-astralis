@@ -1,0 +1,31 @@
+{
+  "id": "MAP_ROUTE_020",
+  "name": "Route_020",
+  "layout": "LAYOUT_ROUTE_020",
+  "music": "MUS_RG_FUCHSIA",
+  "region_map_section": "MAPSEC_ROUTE_020",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_WYRMSPIRE_KEEP",
+      "offset": -5,
+      "direction": "down"
+    },
+    {
+      "map": "MAP_SHINRYU_PATH",
+      "offset": 0,
+      "direction": "up"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}

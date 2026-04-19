@@ -1748,3 +1748,65 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/Route_001/scripts.inc"
 
+
+	.include "data/maps/Route_011/scripts.inc"
+
+	.include "data/maps/Route_017/scripts.inc"
+
+	.include "data/maps/Marina_Port/scripts.inc"
+
+	.include "data/maps/Fort_Valorite/scripts.inc"
+
+	.include "data/maps/Shinryu_Pagoda/scripts.inc"
+
+	.include "data/maps/Wyrmspire_Keep/scripts.inc"
+
+	.include "data/maps/Route_010/scripts.inc"
+
+	.include "data/maps/Route_006/scripts.inc"
+
+	.include "data/maps/Route_018/scripts.inc"
+
+	.include "data/maps/Route_015/scripts.inc"
+
+	.include "data/maps/Route_013/scripts.inc"
+
+	.include "data/maps/Nexium_Caverns/scripts.inc"
+
+	.include "data/maps/Mytheria/scripts.inc"
+
+	.include "data/maps/Greensfield/scripts.inc"
+
+	.include "data/maps/Route_012/scripts.inc"
+
+	.include "data/maps/Route_014/scripts.inc"
+
+	.include "data/maps/Route_019/scripts.inc"
+
+	.include "data/maps/Shinryu_Path/scripts.inc"
+
+	.include "data/maps/Route_004/scripts.inc"
+
+	.include "data/maps/Desert_Oasis/scripts.inc"
+
+	.include "data/maps/Route_009/scripts.inc"
+
+	.include "data/maps/Ironforge_City/scripts.inc"
+
+	.include "data/maps/Fortuna_City/scripts.inc"
+
+	.include "data/maps/Route_020/scripts.inc"
+
+	.include "data/maps/Route_005/scripts.inc"
+
+	.include "data/maps/Route_008/scripts.inc"
+
+	.include "data/maps/AE_Ruins/scripts.inc"
+
+	.include "data/maps/HydroElec_Dam/scripts.inc"
+
+	.include "data/maps/Route_016/scripts.inc"
+
+	.include "data/maps/Route_007/scripts.inc"
+
+	.include "data/maps/CynderHail_Sect/scripts.inc"

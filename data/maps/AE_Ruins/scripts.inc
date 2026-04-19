@@ -1,0 +1,2 @@
+AE_Ruins_MapScripts::
+	.byte 0

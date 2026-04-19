@@ -1,0 +1,31 @@
+{
+  "id": "MAP_AE_RUINS",
+  "name": "AE_Ruins",
+  "layout": "LAYOUT_AE_RUINS",
+  "music": "MUS_RG_MT_MOON",
+  "region_map_section": "MAPSEC_AE_RUINS",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE_013",
+      "offset": 6,
+      "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE_014",
+      "offset": 6,
+      "direction": "right"
+    }
+  ],
+  "object_events": [],
+  "warp_events": [],
+  "coord_events": [],
+  "bg_events": []
+}
